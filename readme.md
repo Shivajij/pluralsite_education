@@ -1,5 +1,5 @@
 ## PLURALSIGHT ##
-Project Link:  https://tangerine-medovik-117187.netlify.app/
+Project Link:  https://dainty-macaron-2e40e7.netlify.app
 
 
 This is a clone of E-commerce site which Deals with the highest quality leather belts, wallets and accessories,
@@ -54,7 +54,7 @@ To deploy this project run
 
 ## Support
 
-If you have any feedback, please reach out to me at brajeshlovanshi2001@gmail.com
+If you have any feedback, please reach out to me at sj461898@gmail.com
 
 
 

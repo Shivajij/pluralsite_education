@@ -16,7 +16,7 @@ including the Mazama Wares collection of handcrafted glassware etc.
 
 ## Login Page
 
-![App Screenshot](./assets/Screenshot%20(1623).png)
+![App Screenshot](https://images.hindustantimes.com/img/2021/10/21/1600x900/Shah_Rukh_Khan_1634808265211_1634808265334.jpg)
 
 ## Homepage
 
